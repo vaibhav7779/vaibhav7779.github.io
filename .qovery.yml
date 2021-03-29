@@ -1,0 +1,11 @@
+---
+application:
+  name: "vaibhav7779-github-io"
+  project: "test_deploy"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-vaibhav7779-github-io"
+  routes:
+  - application_name: "vaibhav7779-github-io"
+    paths:
+    - "/*"
